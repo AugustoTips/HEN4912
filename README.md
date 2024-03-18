@@ -1,4 +1,4 @@
-# HEN491Alternativo
+# HEN 4.91 Alternativo
 
 Instalador alternativo de HEN 3.3.0 Para HFW 4.91
 
